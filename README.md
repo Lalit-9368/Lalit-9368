@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Lalit, a B.Tech Computer Science and Engineering graduate and  to build a career in DevOps and Cloud Computing.<br><br> and AWS. I’m particularly interested in CI/CD automation, cloud infrastructure, containerization, Infrastructure as Code (IaC), and scalable deployments.<br><br> Focus: DevOps|Cloud|Platform Engineer<br>Education: B.Tech – Computer Science & Engineering<br>Core Interests: AWS • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Linux • Cloud Infrastructure • Agile.<br><br>I enjoy turning complex infrastructure problems into automated solutions. 
+I’m Lalit, a B.Tech Computer Science and Engineering graduate and have interest in DevOps and Cloud Computing.<br><br> I’m particularly interested in CI/CD automation, cloud infrastructure, containerization, Infrastructure as Code (IaC), and scalable deployments.<br><br> Focus: DevOps|Cloud|Platform Engineer.<br><br>Core Interests: AWS • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Linux • Cloud Infrastructure • Agile.<br><br> Turning complex infrastructure problems into automated solutions. 
 
 
 ## 🌐 Socials:
